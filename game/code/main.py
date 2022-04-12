@@ -6,6 +6,7 @@ working_path = os.path.dirname(os.path.join(os.path.dirname(__file__), "..", "..
 #Set window details
 window_name = 'hello'
 window_size = (500, 500) #width, height
+background_colour = (0, 0, 255)
 
 #Setup sprites
 draa_jumping = pygame.image.load(os.path.join(working_path, "images", "sprites", "Draa", "jumping.png"))
@@ -22,7 +23,7 @@ while True:
         if event.type == pygame.QUIT: sys.exit()
     
     #Draw the background
-    screen.fill((0, 255, 0))
+    screen.fill(background_colour)
 
     #Draw Draa
     screen.blit(draa_jumping, (0, 0))
