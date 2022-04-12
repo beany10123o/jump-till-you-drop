@@ -1,1 +1,3 @@
 This is the start of tim's ideas text file.
+
+Imma try to get git working with vscode
