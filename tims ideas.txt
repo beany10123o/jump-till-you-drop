@@ -1,3 +1,21 @@
-This is the start of tim's ideas text file.
+Maps are left to right
+Level Select Menu
+Bricks are currency
+There are 3 main characters: Draa, ???, ???
+Power-ups only last during a level
+Furniture items are each found in chests
+Furniture items have a corresponding powerup
+You have a shared house that must be upgraded using bricks in order to be allowed to collect furniture items
+Bricks can also be used to unlock skins for furniture items
+The number of skins you have for a piece of furniture makes it better by 5% for each extra skin
+Only one player has to make it to the exit of a level to complete that level
+Power bubbles power you up by 10%
+characters have their own innate abilities
+at the start of each level you choose who gets what powerups
+players can climb on top of each other
 
-Imma try to get git working with vscode
+List of powerups:
+
+Speed - movement speed - Treadmill
+Stick to walls - amount of time you can stick to a wall for - ghecko tank
+jump boost - jump height - bed
